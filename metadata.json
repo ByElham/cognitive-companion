@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Companion",
+  "description": "A sophisticated deep-dark themed companion that analyzes thoughts, logs, and speech for emotional patterns and cognitive distortions, offering therapeutic reframing and interactive self-discovery exercises.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
